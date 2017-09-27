@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee ID="765456">
+    <Name>or</Name>
+    <Last_name>gat</Last_name>
+    <Date_of_birth>2/6/1987</Date_of_birth>
+    <Age>30</Age>
+    <Telephone_number>987876456</Telephone_number>
+    <Address>karao</Address>
+    <Education>firstDegree</Education>
+    <Specialization_number>1</Specialization_number>
+    <Served_in_the_military>No</Served_in_the_military>
+    <Has_a_criminal_record>No</Has_a_criminal_record>
+    <Bank_account>
+      <מספר_חשבון>0</מספר_חשבון>
+      <קוד_בנק>10</קוד_בנק>
+      <שם_בנק>leumi</שם_בנק>
+      <קוד_סניף>766</קוד_סניף>
+      <כתובת_ה-ATM>hapisga</כתובת_ה-ATM>
+      <ישוב>jerusa</ישוב>
+    </Bank_account>
+  </Employee>
+  <Employee ID="534645">
+    <Name>joao</Name>
+    <Last_name>xavier</Last_name>
+    <Date_of_birth>2/4/1992</Date_of_birth>
+    <Age>25</Age>
+    <Telephone_number>9498876</Telephone_number>
+    <Address>hoalla</Address>
+    <Education>firstDegree</Education>
+    <Specialization_number>2</Specialization_number>
+    <Served_in_the_military>Yes</Served_in_the_military>
+    <Has_a_criminal_record>No</Has_a_criminal_record>
+    <Bank_account>
+      <מספר_חשבון>0</מספר_חשבון>
+      <קוד_בנק>10</קוד_בנק>
+      <שם_בנק>leumi</שם_בנק>
+      <קוד_סניף>766</קוד_סניף>
+      <כתובת_ה-ATM>hapisga</כתובת_ה-ATM>
+      <ישוב>jerusa</ישוב>
+    </Bank_account>
+  </Employee>
+  <Employee ID="5566">
+    <Name>gg</Name>
+    <Last_name>hh</Last_name>
+    <Date_of_birth>7/7/1980</Date_of_birth>
+    <Age>36</Age>
+    <Telephone_number>444</Telephone_number>
+    <Address>ff</Address>
+    <Education>firstDegree</Education>
+    <Specialization_number>2</Specialization_number>
+    <Served_in_the_military>No</Served_in_the_military>
+    <Has_a_criminal_record>No</Has_a_criminal_record>
+    <Bank_account>
+      <מספר_חשבון>0</מספר_חשבון>
+      <קוד_בנק>34</קוד_בנק>
+      <שם_בנק>ddd</שם_בנק>
+      <קוד_סניף>456</קוד_סניף>
+      <כתובת_ה-ATM>rrtt</כתובת_ה-ATM>
+      <ישוב>rrtt</ישוב>
+    </Bank_account>
+  </Employee>
+</Employees>

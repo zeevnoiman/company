@@ -1,0 +1,7 @@
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\bin\Debug\DS.dll
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\bin\Debug\DS.pdb
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\bin\Debug\BE.dll
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\bin\Debug\BE.pdb
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\obj\Debug\DS.dll
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\DS\obj\Debug\DS.pdb

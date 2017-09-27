@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Specializations Serial_number="3">
+  <Specialization Specialization_number="1">
+    <Specialization_name>jogador</Specialization_name>
+    <Minimum_wage>30</Minimum_wage>
+    <Maximum_wage>70</Maximum_wage>
+    <Field>userInterfaceDesigning</Field>
+  </Specialization>
+  <Specialization Specialization_number="2">
+    <Specialization_name>batedor</Specialization_name>
+    <Minimum_wage>25</Minimum_wage>
+    <Maximum_wage>60</Maximum_wage>
+    <Field>userInterfaceDesigning</Field>
+  </Specialization>
+</Specializations>

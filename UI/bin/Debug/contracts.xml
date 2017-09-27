@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contracts Serial_number="3">
+  <Contract Contract_number="1">
+    <Employer_ID>987654</Employer_ID>
+    <Employee_ID>534645</Employee_ID>
+    <Was_interviewed>Yes</Was_interviewed>
+    <Signed>Yes</Signed>
+    <Bruto_salary>50</Bruto_salary>
+    <Neto_salary>49.875</Neto_salary>
+    <Start_work>10/4/2015</Start_work>
+    <End_work>10/5/2018</End_work>
+    <Work_hours>7</Work_hours>
+  </Contract>
+  <Contract Contract_number="2">
+    <Employer_ID>987654</Employer_ID>
+    <Employee_ID>534645</Employee_ID>
+    <Was_interviewed>Yes</Was_interviewed>
+    <Signed>Yes</Signed>
+    <Bruto_salary>50</Bruto_salary>
+    <Neto_salary>49.875</Neto_salary>
+    <Start_work>1/2/2014</Start_work>
+    <End_work>2/3/2019</End_work>
+    <Work_hours>4</Work_hours>
+  </Contract>
+</Contracts>

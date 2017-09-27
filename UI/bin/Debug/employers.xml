@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employers>
+  <Employer ID="987654">
+    <Name>jose</Name>
+    <Last_name>maria</Last_name>
+    <Company_name>de vez</Company_name>
+    <Foundation_date>1/3/1989</Foundation_date>
+    <Telephone_number>876545654</Telephone_number>
+    <Address>pisga</Address>
+    <Field>userInterfaceDesigning</Field>
+    <Is_a_company>Yes</Is_a_company>
+    <Veterancy>28</Veterancy>
+  </Employer>
+  <Employer ID="123456">
+    <Name>daniel</Name>
+    <Last_name>najman</Last_name>
+    <Company_name>ferrou</Company_name>
+    <Foundation_date>11/1/1995</Foundation_date>
+    <Telephone_number>545465678</Telephone_number>
+    <Address>hantke</Address>
+    <Field>userInterfaceDesigning</Field>
+    <Is_a_company>Yes</Is_a_company>
+    <Veterancy>21</Veterancy>
+  </Employer>
+  <Employer ID="565">
+    <Name>aaa</Name>
+    <Last_name>bbb</Last_name>
+    <Company_name>eeee</Company_name>
+    <Foundation_date>4/6/1990</Foundation_date>
+    <Telephone_number>5565</Telephone_number>
+    <Address>rrrr</Address>
+    <Field>userInterfaceDesigning</Field>
+    <Is_a_company>Yes</Is_a_company>
+    <Veterancy>26</Veterancy>
+  </Employer>
+</Employers>

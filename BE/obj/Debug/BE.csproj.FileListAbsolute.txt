@@ -1,0 +1,4 @@
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\BE\bin\Debug\BE.dll
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\BE\bin\Debug\BE.pdb
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\BE\obj\Debug\BE.dll
+C:\Users\daniel\Desktop\final_project\dotNet5777_Project01_1387_7574\BE\obj\Debug\BE.pdb
